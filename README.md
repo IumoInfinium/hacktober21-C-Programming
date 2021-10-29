@@ -9,3 +9,4 @@ Kindly mention when you are going to change the `readme.md` file. Also, mention 
 ## Selection Sort
 ## Insertion Sort
 ## Counting Sort
+## Linear Search
