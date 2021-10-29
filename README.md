@@ -1,7 +1,6 @@
 # hacktober21-C-Programming
 
-Kindly mention when you are going to change the `readme.md` file. Also, mention @IumoInfinium while doing it.
-
+Don't know what to do, you can do the things mentioned below...
 
 ## Arithemetic 
 ## Binary Search
